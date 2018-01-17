@@ -1,0 +1,25 @@
+{
+  "name": "lab-karen",
+  "version": "1.0.0",
+  "description": "Lab 1 starting learning testing",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kbperez"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Karen Perez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.1.1"
+  }
+}
